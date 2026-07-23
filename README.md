@@ -9,4 +9,4 @@ The work showcased here is entirely supplemental and serves as an example of how
 Power BI, SQL, Python 
 
 
-### Thank you for visiting!
+### <p align="center"> Thank you for visiting! </p>
