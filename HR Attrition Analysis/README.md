@@ -1,4 +1,4 @@
-### Overview
+## Overview
 Dashboard and docx attached.
 
 ## Workforce Attrition Analysis Report: 
@@ -41,8 +41,7 @@ Deliverable Audience • Executive Leadership • Human Resources Department •
 • Attrition by salary band  
 • Attrition by age group  
 • Attrition by gender (if applicable)  
---- 
-
+---
 Findings and Visualizations Roles with the Highest Attrition Highest attrition position:  
 • Sales Representative  
 • Overall Attrition Rate: 16.1%  
@@ -79,7 +78,7 @@ Attrition by Overtime Relationship: Employees with overtime were 3X more likely 
 Significant factors associated with increased attrition included:  
 • **Monthly income: under 2K** 
 •**Age: 18-25**  
-• **Job Role:** Sales Representative 
+• **Job Role:** Sales Representative  
 • **Burnout** has the highest turnover with **31.3%** of employees attriting.  
 Considering the current strike affecting 15 sales associates and 23 research scientists, maintaining existing staffing levels will require proactive recruitment to offset both the immediate shortages and expected future attrition. Limitations This analysis has several limitations. The dataset did not include employee departure dates, which limits the ability to accurately identify seasonal trends, specific periods of increased turnover, or when resignations most frequently occurred. Without this information, timing-related attrition patterns could not be fully evaluated. Additional limitations may include incomplete employee records, limited access to qualitative factors influencing turnover (such as employee satisfaction or workplace concerns), and reliance on available historical data to estimate future staffing needs.
 
@@ -89,4 +88,5 @@ Considering the current strike affecting 15 sales associates and 23 research sci
 ## **Conclusion**  
 Historical attrition analysis provides Smithsonian Co. with evidence-based insights for workforce planning during the current hiring crisis. By identifying high-turnover roles, understanding when employees are most likely to leave, and estimating future staffing needs, the organization can make informed hiring decisions while maintaining operational continuity. Hiring an additional 10–15% above normal workforce requirements is expected to reduce staffing risk and improve resilience against both ongoing labor disruptions and routine employee turnover.
 
-Appendix (Optional) Key Metrics Metric Value Overall Attrition Rate 16.1% Total Employees 1,470 Total Employees Leaving 237 Highest Attrition Role Sales Representative Highest Attrition Department Sales Average Salary of Employees Leaving $54,445 Average Tenure Before Leaving 1 year Recommended Additional Hiring 36 employees (10–15%)
+### Appendix (Optional)  
+Key Metrics Metric Value Overall Attrition Rate 16.1% Total Employees 1,470 Total Employees Leaving 237 Highest Attrition Role Sales Representative Highest Attrition Department Sales Average Salary of Employees Leaving $54,445 Average Tenure Before Leaving 1 year Recommended Additional Hiring 36 employees (10–15%)
