@@ -9,23 +9,23 @@ Define Key Terms
 **Voluntary Quit:** An employee who resigns by choice. High-Attrition Role: A position experiencing employee departures at a significantly higher rate than the organizational average.  
 **Hiring Buffer:** Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.  
 
-###Introduction 
+### Introduction 
 Why This Analysis Was Conducted  
 **Smithsonian Co.** is experiencing a workforce shortage due to an ongoing strike involving **15 sales associates** and **23 research scientists**. To maintain business continuity and prepare for normal employee turnover in addition to the current staffing disruption, management is considering hiring **10–15% more employees** than standard workforce projections. This report analyzes historical employee attrition to identify workforce trends, estimate future hiring needs, and support data-driven recruitment planning.  
 
 ### Business Context and Stakeholders Organization Smithsonian Co. (Multi-department organization)   
 Deliverable Audience • Executive Leadership • Human Resources Department • Talent Acquisition Team • Operations Management Stakeholders • Chief Executive Officer (CEO) • Human Resources Director • Recruitment Managers • Department Managers • Finance Department • Workforce Planning Team  
 ## Objectives  
-The objectives of this analysis are to:  
+**The objectives of this analysis are to:**  
 • Identify the roles with the highest attrition rates. • Determine when employee resignations most frequently occur. • Calculate the average salary of employees who leave the organization. • Identify demographic or organizational factors associated with higher attrition. • Estimate additional hiring requirements to offset expected future attrition. • Provide evidence-based recommendations for workforce planning during the current staffing shortage.  
 
-Data and Methodology Data Sources Primary Dataset(s): • Human Resources employee records • Payroll and salary data • Employment history • Job role and department information • Employee demographic information Data Cleaning • Removed duplicate employee records. • Standardized department and job titles. • Corrected missing or inconsistent values. • Removed incomplete records where necessary.  
+**Data and Methodology Data Sources Primary Dataset(s)🩹** • Human Resources employee records • Payroll and salary data • Employment history • Job role and department information • Employee demographic information Data Cleaning • Removed duplicate employee records. • Standardized department and job titles. • Corrected missing or inconsistent values. • Removed incomplete records where necessary.  
 Analytical Techniques Descriptive Analysis • Employee count: 1,470 • Number of voluntary quits: 237 • Attrition rate: 16.1% • Departments analyzed: Sales, Research & Development, Human Resources • Job roles analyzed: 9 Comparative Analysis • Attrition by department • Attrition by job role • Attrition by salary band • Attrition by age group • Attrition by gender (if applicable)  
 
 Findings and Visualizations Roles with the Highest Attrition Highest attrition position: • Sales Representative • Overall Attrition Rate: 16.1% Top Five Roles Rank Role Attrition Rate 1 Sales Representative 39.8% 2 Laboratory Technician 23.9% 3 Human Resources 23.1% 4 Sales Executive 17.5% 5 Research Scientist 16.1%  
 
 Average Salary of Employees Who Quit  
-Average salary: $57,445  
+**Average salary💵** $57,445
 Salary range with highest turnover: $1,000-$2,000  
 
 Other Notable Factors Department with Highest Attrition: Sales
