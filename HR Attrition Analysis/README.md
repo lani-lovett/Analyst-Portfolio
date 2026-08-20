@@ -1,17 +1,19 @@
 ### Overview
+Dashboard and docx attached.
+
 Workforce Attrition Analysis Report: 
 Smithsonian Co. 
 
 Define Key Terms 
-Attrition: The reduction of employees through voluntary resignations, retirements, or other departures without immediate replacement. 
-Voluntary Quit: An employee who resigns by choice. High-Attrition Role: A position experiencing employee departures at a significantly higher rate than the organizational average. 
-Hiring Buffer: Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.
+**Attrition:** The reduction of employees through voluntary resignations, retirements, or other departures without immediate replacement. 
+**Voluntary Quit:** An employee who resigns by choice. High-Attrition Role: A position experiencing employee departures at a significantly higher rate than the organizational average. 
+**Hiring Buffer:** Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.
 
-Introduction 
+###Introduction 
 Why This Analysis Was Conducted 
-Smithsonian Co. is experiencing a workforce shortage due to an ongoing strike involving 15 sales associates and 23 research scientists. To maintain business continuity and prepare for normal employee turnover in addition to the current staffing disruption, management is considering hiring 10–15% more employees than standard workforce projections. This report analyzes historical employee attrition to identify workforce trends, estimate future hiring needs, and support data-driven recruitment planning.
+**Smithsonian Co.** is experiencing a workforce shortage due to an ongoing strike involving **15 sales associates** and **23 research scientists**. To maintain business continuity and prepare for normal employee turnover in addition to the current staffing disruption, management is considering hiring **10–15% more employees** than standard workforce projections. This report analyzes historical employee attrition to identify workforce trends, estimate future hiring needs, and support data-driven recruitment planning.
 
-Business Context and Stakeholders Organization Smithsonian Co. (Multi-department organization) 
+### Business Context and Stakeholders Organization Smithsonian Co. (Multi-department organization) 
 
 Deliverable Audience • Executive Leadership • Human Resources Department • Talent Acquisition Team • Operations Management Stakeholders • Chief Executive Officer (CEO) • Human Resources Director • Recruitment Managers • Department Managers • Finance Department • Workforce Planning Team
 
