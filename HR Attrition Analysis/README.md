@@ -1,7 +1,7 @@
 ### Overview
 Dashboard and docx attached.
 
-Workforce Attrition Analysis Report: 
+## Workforce Attrition Analysis Report: 
 Smithsonian Co. 
 
 Define Key Terms 
