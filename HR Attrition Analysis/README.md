@@ -41,7 +41,7 @@ Deliverable Audience • Executive Leadership • Human Resources Department •
 • Attrition by salary band  
 • Attrition by age group  
 • Attrition by gender (if applicable)  
-### 
+--- 
 
 Findings and Visualizations Roles with the Highest Attrition Highest attrition position:  
 • Sales Representative  
@@ -52,33 +52,41 @@ Top Five Roles Rank Role Attrition Rate
 3 Human Resources 23.1%  
 4 Sales Executive 17.5%  
 5 Research Scientist 16.1%  
-
+---
 Average Salary of Employees Who Quit  
 **Average salary💵** $57,445
-Salary range with highest turnover: $1,000-$2,000  
+**Salary range with highest turnover:** $1,000-$2,000  
 
-Other Notable Factors Department with Highest Attrition: Sales
+**Other Notable Factors Department with Highest Attrition:** Sales
 
-Highest-Risk Age Group: Employees aged 18–25 had the highest attrition rate (35.8%), compared with 9.2% among employees aged 36–45.
+**Highest-Risk Age Group:** Employees aged 18–25 had the highest attrition rate (35.8%), compared with 9.2% among employees aged 36–45.
 
-Highest Education Level Leaving:
-
-High School Diploma/GED
-Bachelor’s Degree Bachelor and High School Diploma/GED make up almost 50% of attritions.
+**Highest Education Level Leaving:** High School Diploma/GED
+**Bachelor’s Degree** Bachelor and High School Diploma/GED make up almost 50% of attritions.
 Attrition by Overtime Relationship: Employees with overtime were 3X more likely to attrite.
 
-Job Satisfaction Relationship: Highest attrition rate for low job satisfaction at 22.8%
+**Job Satisfaction Relationship:** Highest attrition rate for low job satisfaction at 22.8%
 
-Distance from Work: Longer distance correlated with higher attrition.
+**Distance from Work:** Longer distance correlated with higher attrition.
 
-Promotion History: 16.3% NOT due for promotion | 12.5% due for promotion Work-Life Balance: Those with Burnout/Unsustainable workload are twice as likely to attrit than those with a manageable workload.
+**Promotion History:** 16.3% NOT due for promotion | 12.5% due for promotion  
+**Work-Life Balance:** Those with Burnout/Unsustainable workload are twice as likely to attrit than those with a manageable workload.
 
-Other Significant Findings • Males were twice as likely to attrit. • Monthly income of 1K-5K is at higher risk for attrition (21.8%).
+**Other Significant Findings** • Males were twice as likely to attrit. • Monthly income of 1K-5K is at higher risk for attrition (21.8%).
+---
+**Discussion / Interpretation** The analysis indicates that the greatest workforce risk exists within Sales/Sales Rep where attrition reached **39.8%**, exceeding the organizational average of **16.1%**. Employee departures most commonly occurred after approximately **1 year of service**, suggesting a potential retention challenge during this stage of employment. Employees leaving the organization earned an average salary of $57,445, indicating that turnover is concentrated within the mid salary range.  
 
-Discussion / Interpretation The analysis indicates that the greatest workforce risk exists within Sales/Sales Rep where attrition reached 39.8%, exceeding the organizational average of 16.1%. Employee departures most commonly occurred after approximately 1 year of service, suggesting a potential retention challenge during this stage of employment. Employees leaving the organization earned an average salary of $57,445, indicating that turnover is concentrated within the mid salary range. Significant factors associated with increased attrition included: • Monthly income: under 2K • Age: 18-25 • Job Role: Sales Representative • Burnout has the highest turnover with 31.3% of employees attriting. Considering the current strike affecting 15 sales associates and 23 research scientists, maintaining existing staffing levels will require proactive recruitment to offset both the immediate shortages and expected future attrition. Limitations This analysis has several limitations. The dataset did not include employee departure dates, which limits the ability to accurately identify seasonal trends, specific periods of increased turnover, or when resignations most frequently occurred. Without this information, timing-related attrition patterns could not be fully evaluated. Additional limitations may include incomplete employee records, limited access to qualitative factors influencing turnover (such as employee satisfaction or workplace concerns), and reliance on available historical data to estimate future staffing needs.
+Significant factors associated with increased attrition included:  
+• **Monthly income: under 2K** 
+•**Age: 18-25**  
+• **Job Role:** Sales Representative 
+• **Burnout** has the highest turnover with **31.3%** of employees attriting.  
+Considering the current strike affecting 15 sales associates and 23 research scientists, maintaining existing staffing levels will require proactive recruitment to offset both the immediate shortages and expected future attrition. Limitations This analysis has several limitations. The dataset did not include employee departure dates, which limits the ability to accurately identify seasonal trends, specific periods of increased turnover, or when resignations most frequently occurred. Without this information, timing-related attrition patterns could not be fully evaluated. Additional limitations may include incomplete employee records, limited access to qualitative factors influencing turnover (such as employee satisfaction or workplace concerns), and reliance on available historical data to estimate future staffing needs.
 
-Recommendations and Action Plan Short-Term Actions • Recruit replacements for striking positions immediately. • Hire an additional 10–15% above projected staffing requirements. • Prioritize recruitment for the highest-attrition roles. • Accelerate onboarding processes. Medium-Term Actions • Review compensation for high-turnover positions. • Strengthen employee retention initiatives. • Improve career progression opportunities. • Conduct stay interviews with high-risk employee groups. Long-Term Actions • Develop predictive attrition monitoring dashboards. • Implement workforce planning based on historical turnover trends. • Regularly review hiring forecasts using updated attrition data. • Measure retention initiatives through quarterly reporting.
+**## Recommendations and Action Plan**
+  **Short-Term Actions** • Recruit replacements for striking positions immediately. • Hire an additional 10–15% above projected staffing requirements. • Prioritize recruitment for the highest-attrition roles. • Accelerate onboarding processes. Medium-Term Actions • Review compensation for high-turnover positions. • Strengthen employee retention initiatives. • Improve career progression opportunities. • Conduct stay interviews with high-risk employee groups. Long-Term Actions • Develop predictive attrition monitoring dashboards. • Implement workforce planning based on historical turnover trends. • Regularly review hiring forecasts using updated attrition data. • Measure retention initiatives through quarterly reporting.
 
-Conclusion Historical attrition analysis provides Smithsonian Co. with evidence-based insights for workforce planning during the current hiring crisis. By identifying high-turnover roles, understanding when employees are most likely to leave, and estimating future staffing needs, the organization can make informed hiring decisions while maintaining operational continuity. Hiring an additional 10–15% above normal workforce requirements is expected to reduce staffing risk and improve resilience against both ongoing labor disruptions and routine employee turnover.
+**## Conclusion**  
+Historical attrition analysis provides Smithsonian Co. with evidence-based insights for workforce planning during the current hiring crisis. By identifying high-turnover roles, understanding when employees are most likely to leave, and estimating future staffing needs, the organization can make informed hiring decisions while maintaining operational continuity. Hiring an additional 10–15% above normal workforce requirements is expected to reduce staffing risk and improve resilience against both ongoing labor disruptions and routine employee turnover.
 
 Appendix (Optional) Key Metrics Metric Value Overall Attrition Rate 16.1% Total Employees 1,470 Total Employees Leaving 237 Highest Attrition Role Sales Representative Highest Attrition Department Sales Average Salary of Employees Leaving $54,445 Average Tenure Before Leaving 1 year Recommended Additional Hiring 36 employees (10–15%)
