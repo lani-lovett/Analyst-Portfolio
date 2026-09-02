@@ -12,7 +12,7 @@
 **High-Attrition Role:** A position experiencing employee departures at a significantly higher rate than the organizational average.  
 **Hiring Buffer:** Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.  
 
-<h3 align="center"> Business Context and Stakeholders </h3>  
+Business Context and Stakeholders
 <p align="center"><b>Organization:</b></p>  
 <p align="center">Smithsonian Co. (Multi-department organization)</p>     
 <p align="center"><b>  Deliverable Audience:  </b></p> 
