@@ -1,4 +1,6 @@
-<p align="center"> ## Overview </p>
+<h1 align="center"> Overview </h1>
+<p align="center"> <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/50dc8046-f409-4e43-98f9-52a7dcd965c2" /> 
+</p>
 **Smithsonian Co.** is experiencing a workforce shortage due to an ongoing strike involving **15 sales associates** and **23 research scientists**. To maintain business continuity and prepare for normal employee turnover in addition to the current staffing disruption, management is considering hiring **10–15% more employees** than standard workforce projections. This report analyzes historical employee attrition to identify workforce trends, estimate future hiring needs, and support data-driven recruitment planning.  
 
 ## Introduction
