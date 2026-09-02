@@ -12,7 +12,7 @@
 **High-Attrition Role:** A position experiencing employee departures at a significantly higher rate than the organizational average.  
 **Hiring Buffer:** Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.  
 
-Business Context and Stakeholders
+### Business Context and Stakeholders
 <p align="center"><b>Organization:</b></p>  
 <p align="center">Smithsonian Co. (Multi-department organization)</p>     
 <p align="center"><b>  Deliverable Audience:  </b></p> 
@@ -50,10 +50,13 @@ The objectives of this analysis are to:
 • Attrition by salary band  
 • Attrition by age group  
 • Attrition by gender (if applicable)  
----
-Findings and Visualizations Roles with the Highest Attrition Highest attrition position:  
+
+Findings and Visualizations Roles with the Highest Attrition  
+
+Highest attrition position:  
 • Sales Representative  
 • Overall Attrition Rate: 16.1%  
+
 Top Five Roles Rank Role Attrition Rate  
 1 Sales Representative 39.8%  
 2 Laboratory Technician 23.9%  
