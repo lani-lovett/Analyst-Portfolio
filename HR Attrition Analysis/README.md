@@ -13,8 +13,8 @@
 **Hiring Buffer:** Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.  
 
 ### Business Context and Stakeholders  
-<p align="center"><b>Organization:<p align="center"><b>  
- Smithsonian Co. (Multi-department organization)   
+<p align="center"><b>Organization:</b></p>  
+<p align="center">Smithsonian Co. (Multi-department organization)</p>     
 <p align="center"><b>  Deliverable Audience:  </b></p> 
 • Executive Leadership • Human Resources Department • Talent Acquisition Team • Operations Management Stakeholders • Chief Executive Officer (CEO) • Human Resources Director • Recruitment Managers • Department Managers • Finance Department • Workforce Planning Team  
  
