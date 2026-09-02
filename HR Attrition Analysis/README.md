@@ -12,8 +12,10 @@
 **High-Attrition Role:** A position experiencing employee departures at a significantly higher rate than the organizational average.  
 **Hiring Buffer:** Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.  
 
-### Business Context and Stakeholders Organization Smithsonian Co. (Multi-department organization)   
-Deliverable Audience • Executive Leadership • Human Resources Department • Talent Acquisition Team • Operations Management Stakeholders • Chief Executive Officer (CEO) • Human Resources Director • Recruitment Managers • Department Managers • Finance Department • Workforce Planning Team  
+### Business Context and Stakeholders  
+Organization: Smithsonian Co. (Multi-department organization)   
+Deliverable Audience: 
+• Executive Leadership • Human Resources Department • Talent Acquisition Team • Operations Management Stakeholders • Chief Executive Officer (CEO) • Human Resources Director • Recruitment Managers • Department Managers • Finance Department • Workforce Planning Team  
 ## Objectives  
 **The objectives of this analysis are to:**  
 • Identify the roles with the highest attrition rates. • Determine when employee resignations most frequently occur. • Calculate the average salary of employees who leave the organization. • Identify demographic or organizational factors associated with higher attrition. • Estimate additional hiring requirements to offset expected future attrition. • Provide evidence-based recommendations for workforce planning during the current staffing shortage.  
