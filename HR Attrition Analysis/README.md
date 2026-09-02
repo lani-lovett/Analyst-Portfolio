@@ -17,7 +17,7 @@
 **Deliverable Audience:**  
 • Executive Leadership • Human Resources Department • Talent Acquisition Team • Operations Management Stakeholders • Chief Executive Officer (CEO) • Human Resources Director • Recruitment Managers • Department Managers • Finance Department • Workforce Planning Team  
 ## Objectives  
-<p align="center"></b> The objectives of this analysis are to: </b></p>  
+<p align="center"></b> The objectives of this analysis are to:  </b></p>  
 
 • Identify the roles with the highest attrition rates.  
 • Determine when employee resignations most frequently occur.  
