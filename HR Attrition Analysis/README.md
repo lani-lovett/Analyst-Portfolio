@@ -6,9 +6,10 @@
 
 ## Introduction  
 
-**Defining Key Terms**  
+### Defining Key Terms: 
 **Attrition:** The reduction of employees through voluntary resignations, retirements, or other departures without immediate replacement.  
-**Voluntary Quit:** An employee who resigns by choice. High-Attrition Role: A position experiencing employee departures at a significantly higher rate than the organizational average. 
+**Voluntary Quit:** An employee who resigns by choice.  
+**High-Attrition Role:** A position experiencing employee departures at a significantly higher rate than the organizational average.  
 **Hiring Buffer:** Additional staff hired above projected needs (10–15%) to compensate for expected future attrition.  
 
 ### Business Context and Stakeholders Organization Smithsonian Co. (Multi-department organization)   
