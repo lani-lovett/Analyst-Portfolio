@@ -14,12 +14,12 @@
 
 ### Business Context and Stakeholders  
 <p align="center"><b>Organization:<p align="center"><b>  
-Smithsonian Co. (Multi-department organization)   
+ Smithsonian Co. (Multi-department organization)   
 <p align="center"><b>  Deliverable Audience:  </b></p> 
 • Executive Leadership • Human Resources Department • Talent Acquisition Team • Operations Management Stakeholders • Chief Executive Officer (CEO) • Human Resources Director • Recruitment Managers • Department Managers • Finance Department • Workforce Planning Team  
-## Objectives  
-<p align="center"></b> The objectives of this analysis are to:  </b></p>  
-
+ 
+ ## Objectives  
+The objectives of this analysis are to:  
 • Identify the roles with the highest attrition rates.  
 • Determine when employee resignations most frequently occur.  
 • Calculate the average salary of employees who leave the organization.  
